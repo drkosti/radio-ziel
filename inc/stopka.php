@@ -47,7 +47,7 @@
                     </ul>
                  </div>
             </div>
-            <div class="szab-inf">Szablon wykonany przez: <a href="http://ekosti.pl" target="_blank">eKosti.pl</a> | <a href="https://www.facebook.com/ekostipl" target="_blank">FB</a></div>
+            <div class="szab-inf">Szablon wykonany przez: <a href="https://www.facebook.com/ekostipl" target="_blank">eKosti.pl</a></div>
         </div>
 
     </footer>
