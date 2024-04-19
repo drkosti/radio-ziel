@@ -1,7 +1,7 @@
 ﻿<div class="col-sm-4">
 
 		<audio preload="auto" controls>
-					<source src="http://<?php echo $ip ?>:<?php echo $port ?>/;stream.mp3">
+					<source src="https://<?php echo $ip ?>:<?php echo $port ?>/;stream.mp3">
 		</audio>
 		<script src="js/jquery-3.3.1.slim.js"></script>
 		<script src="js/audioplayer.js"></script>
